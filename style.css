@@ -48,8 +48,7 @@
     height: 6vh;
     outline: none;
     text-align: right;
-    letter-spacing: 3px;
-    line-break: strict;
+   
 }
 
 .button:hover {
